@@ -1,0 +1,6 @@
+Biologie, clasa IX, autor:I.Firica, (biologie)-disponibile: 99
+Chimie, clasa II, autor:Heisenberg, (chimie)-disponibile: 8
+Chimie, clasa VI, autor:Barbu, (chimie)-disponibile: 98
+Chimie, clasa IX, autor:Heisenberg, (chimie)-disponibile: 0
+Chimie, clasa IX, autor:Barbu, (chimie)-disponibile: 67
+Informatica, clasa X, autor:A.Badulescu, (informatica)-disponibile: 93

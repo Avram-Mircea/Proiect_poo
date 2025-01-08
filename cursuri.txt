@@ -1,0 +1,3 @@
+Matematici speciale, profesor:Danet, (matematica)-locuri: 0
+Matematici speciale, profesor:Tenad, (matematica)-locuri: 34
+Programare orientate pe obiecte, profesor:Ganea, (informatica)-locuri: 63

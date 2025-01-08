@@ -1,0 +1,11 @@
+miau
+student
+
+Carti:
+Chimie, clasa XI, autor:Heisenberg, (chimie)
+Chimie, clasa X, autor:Barbu, (chimie)
+Biologie, clasa IX, autor:I.Firica, (biologie)
+
+Cursuriu:
+Matematici speciale, profesor:Danet, (matematica)
+Programare orientate pe obiecte, profesor:Ganea, (informatica)
